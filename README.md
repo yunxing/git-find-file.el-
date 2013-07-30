@@ -3,6 +3,8 @@ git-find-file.el-
 
 Find files in a git project quickly. Sort them by last modified time
 
+Forked from https://github.com/hjz/emacs/blob/master/jz/git-find-file.el
+
 Usage: 
 ``` bash
 cd ~/.emacs.d/
